@@ -1,0 +1,13 @@
+{
+    "rest-client.environmentVariables": {
+        "$shared": {
+          "apiUrl": "https://reqres.in"
+        },
+        "test1": {
+          "userId": "1"
+        },
+        "test2": {
+          "userId": "2"
+        }
+      }
+}
